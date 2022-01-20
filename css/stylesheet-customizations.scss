@@ -7,7 +7,7 @@
 
 // Customize the background color
 body {
-  background-color: lightcoral;
+  background-color: lighten(lightcoral, 20%);
 }
 
 // Customize the menubar color
@@ -17,5 +17,5 @@ body {
 
 // Customize the home page icon colors
 .icon-color {
-  color: darken(lightcoral, 30%);
+  color: darken(lightcoral, 20%);
 }
