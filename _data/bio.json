@@ -91,8 +91,6 @@
       "endDate": "Present",
       "summary": "Organize weekly social, educational and spiritual oriented events for youth",
       "highlights": [
-        "",
-        ""
       ]
     },
     {
@@ -103,22 +101,34 @@
       "endDate": "",
       "summary": " ",
       "highlights": [
-        ""
+      
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "University of Hawaii at Manoa Provost Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship of $10,000 for four years awarded to incoming freshmen strudents who complete a rigorous high school curriculum with a minimum overall GPA of 3.8 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Mamoru & Aiko Takitani Scholarship",
+      "date": "2020",
+      "awarder": "The Mamoru and Aiko Takitani Foundation",
+      "summary": "A scholarship awarded to an outstanding graduating senior selected by each qualifying high school to receive a $3,000"
+    },
+    {
+      "title": "Community Scholarship Fund",
+      "date": "2020-Present",
+      "awarder": "Hawaii Community Foundation,
+      "summary": "A scholarship of $2,625 given to residents of Hawaii to help them in their academic careers"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2020",
+      "awarder": "University of Hawaii at Manoa,
+      "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
     }
   ],
   "references": [
