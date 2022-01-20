@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Java vs JavaScript Time to Fight
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2022-01-19
 labels:
-  - Software Engineering
+  - Java 
   - Reflection
 ---
 
-<img class="ui medium left floated image" src="boxing.jpg">
+<img class="ui medium left floated image" src="../images/boxing.jpg">
 
 ## Who's in the Ring?
 
