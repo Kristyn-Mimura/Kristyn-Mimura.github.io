@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui large right spaced image" src="../images/degree_difficulty.jpg">
+<img class="ui large right spaced image" src="../images/building.jpg">
 
 
 
