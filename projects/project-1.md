@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Kitty Fighters: 2-Person Fighter Game
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-12-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Computer Science
+  - Animation
+  - Gaming
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
