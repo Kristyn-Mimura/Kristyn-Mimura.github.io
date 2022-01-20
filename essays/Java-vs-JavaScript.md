@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Java vs JavaScript - Time to Fight
+title: Who Would Win - Java vs JavaScript
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
