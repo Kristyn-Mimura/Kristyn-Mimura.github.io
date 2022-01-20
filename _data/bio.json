@@ -82,56 +82,28 @@
       ]
     }
   ],
-  /*"work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ]*/,
   "volunteer": [
     {
       "organization": "Leeward Community Church",
       "website": "https://www.leewardcommunitychurch.org/",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "Youth Group Leader",
+      "startDate": "2021-12-27",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Organize weekly social, educational and spiritual oriented events for youth",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": " ",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
