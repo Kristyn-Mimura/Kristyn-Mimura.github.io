@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Java vs. JavaScript: Time to Fight!
+title: Igniting the fire
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-19
+date: 2015-08-26
 labels:
-  - Java
-  - Javascript
+  - Software Engineering
   - Reflection
 ---
 
