@@ -9,7 +9,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui medium left floated image" src="../images/boxing.jpg">
+<img class="ui large image" src="../images/boxing.jpg">
 
 ## Who's in the Ring?
 
