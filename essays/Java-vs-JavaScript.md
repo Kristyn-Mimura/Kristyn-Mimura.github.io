@@ -22,7 +22,7 @@ I thought Java and JavaScript would be really similar since they have similar na
 
 
 ## And the Winner Is...
-
+ 
 The differences between the two are what makes them so hard to choose between. They both have ideal scenarios they could be used in. From a software engineering perspective, Java is more complex but seems more suitable and practical for bigger projects with lots of code that would benefit from the rigidness of the Java syntax. The freedom JavaScript provides is a double-edged sword because as projects get bigger and more complex, it will be harder to find errors since it allows more than Java. On the other hand, I’ve found learning JavaScript to be a very interesting experience. It was really fun to experiment with the new syntax and learn different ways to write even the simplest lines of code. Since I’ve only learned C and Java before JavaScript, the syntax was honestly hard to wrap my head around but I found JavaScript to be a very unique language that I can see myself falling in love with. It felt like there were more opportunities to think creatively; much more so than Java or C. Personally, at the moment, I like JavaScript more. Ding! Ding! JavaScript has won.
 
 ## The Post-Fight
