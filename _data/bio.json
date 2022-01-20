@@ -74,6 +74,11 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 314: Software Engineering I",
+        "ICS 212: C/C++ Programming",
+        "ICS 241: Discrete Math II",
+        "ICS 141: Discrete Math I",
+        "ICS 11: Introduction to Java"
       ]
     }
   ],
