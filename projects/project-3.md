@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/awana.png
+image: images/awana.jpeg
 title: Awana Student Leader 
 permalink: 
 # All dates must be YYYY-MM-DD format!
