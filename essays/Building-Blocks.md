@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I'm Building my Carrer One Brick at a Time
+title: I'm Building my Career One Brick at a Time
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:
