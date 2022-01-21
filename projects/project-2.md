@@ -24,4 +24,8 @@ For this project, I made the initial sketch for the logo and made the final prod
 
 This project was ongoing for quite some time. I learned to manage my time well and how to collaborate with another person. It was important to be constantly communicating and bouncing ideas off of one another as well as planning out the best ways to divide work. I learned how to stay consistent with a theme and some basics of graphic design principles such as repetition and balance. It was also a good experience in applying my Adobe Illustrator skills. 
 
-<img class="ui medium right floated rounded image" src="../images/pcmenu.png">
+<img class="ui medium left floated rounded image" src="../images/pcmenu.png">
+
+<img class="ui medium right floated rounded image" src="../images/pcmenu2.png">
+
+<img class="ui medium" src="../images/pccard.png">
