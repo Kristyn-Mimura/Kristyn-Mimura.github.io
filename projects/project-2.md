@@ -10,7 +10,7 @@ labels:
   - Graphic Design
   - Adobe Illustrator 
 
-summary: Used Adobe Illustrator for a graphic design project to create and design the cocnept for a ficitonal food truck business 
+summary: Used Adobe Illustrator for a graphic design project to create and design the concept for a fictional food truck business 
 ---
 
 <img class="ui large image" src="../images/pctruck.png">
