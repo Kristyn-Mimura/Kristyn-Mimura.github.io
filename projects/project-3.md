@@ -1,61 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/awana.png
+title: Awana Student Leader 
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-06-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Awana
+  - Volunteer
+summary: Throught my high school years I was a student leader at my church's Awana program and was tasked with leading a part of it. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+## What Awana Is and What I Did 
+Awana is a worldwide non-profit ministry and organization that focuses on providing programs and activities focused on evangelism and discipleship to kids ages 2-18. The Awana program at my church has sessions every Sunday throughout the entire year where we have activities and games as well as lessons and bible studies. My responsibilities as a student leader in this program included giving lessons to students, running activities for the students to do, and babysitting children in the nursery. I learned a lot by being constantly put in situations where I had to prepare to teach others and plan out activities. It taught me time management and communication skills that I use to this day. 
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+During the summer, there is a special program run called Summer Awana. The program is more interactive and focuses on providing activities for the students to keep them engaged. In the summer of 2019, I was put on a small team of three people in charge of planning and running the arts and crafts portion of the program for all the kids. We met every Saturday that summer and planned the craft out, prepared the materials, and set them out so they were ready when the kids came the next day. Then on Sunday, we would explain how to do the craft and help students who needed help.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+## What I Learned 
+This was a very rewarding experience for me. I experienced what it’s like to work with a group for an extended amount of time. It was important to check in often on the others in the group to see where they are and keep them accountable. It was also fun to learn how to collaborate on ideas and what the best approaches for teaching were. Running activities also helped in my public speaking skills. 
