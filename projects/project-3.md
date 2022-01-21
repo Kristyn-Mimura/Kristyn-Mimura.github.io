@@ -9,7 +9,7 @@ date: 2020-06-20
 labels:
   - Awana
   - Volunteer
-summary: Throught my high school years I was a student leader at my church's Awana program and was tasked with leading a part of it. 
+summary: Throughout my high school years I was a student leader at my church's Awana program and was tasked with leading a part of it. 
 ---
 
 ## What Awana Is and What I Did 
