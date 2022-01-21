@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/games.jpeg
+image: images/game.jpeg
 title: Kat Battle - A Two-Person Fighter Game
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -13,6 +13,8 @@ labels:
 summary: I developed a simple 2-person fighting game. I designed it and made all animations myself.
 ---
   <img class="ui medium image" src="../images/game.jpeg">
+
+##Title
 
 Kat Battle is a simple 2-person fighting game I made using JavaScript as the final project for my Intro to Computer Science class in high school. This was one of the first projects I've made in my Computer Science career and it instilled in me the desire to continue my journey in this field. This project taught me how to design and impliment a game and make simple animations by hand. 
 
