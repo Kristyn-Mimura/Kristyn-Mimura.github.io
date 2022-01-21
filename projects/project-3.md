@@ -11,6 +11,7 @@ labels:
   - Volunteer
 summary: Throughout my high school years I was a student leader at my church's Awana program and was tasked with leading a part of it. 
 ---
+  <img class="ui medium image" src="../images/awana.png">
 
 ## What Awana Is and What I Did 
 Awana is a worldwide non-profit ministry and organization that focuses on providing programs and activities focused on evangelism and discipleship to kids ages 2-18. The Awana program at my church has sessions every Sunday throughout the entire year where we have activities and games as well as lessons and bible studies. My responsibilities as a student leader in this program included giving lessons to students, running activities for the students to do, and babysitting children in the nursery. I learned a lot by being constantly put in situations where I had to prepare to teach others and plan out activities. It taught me time management and communication skills that I use to this day. 
