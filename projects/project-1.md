@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/game.jpeg
+image: images/catgame1.png
 title: Kat Battle - A Two-Person Fighter Game
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
