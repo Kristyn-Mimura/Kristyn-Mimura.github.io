@@ -12,10 +12,7 @@ labels:
   - Gaming
 summary: I developed a simple 2-person fighting game. I designed it and made all animations myself.
 ---
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/game.jpeg">
 </div>
 
 Kat Battle is a simple 2-person fighting game I made as the final project for my Intro to Computer Science class in high school. This was one of the first projects I've made in my Computer Science career and it instilled in me the desire to continue my journey in this field. This project taught me how to design and impliment a game and make simple animations by hand. 
