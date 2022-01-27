@@ -22,5 +22,7 @@ During the summer, there is a special program run called Summer Awana. The progr
 ## What I Learned 
 This was a very rewarding experience for me. I experienced what it’s like to work with a group for an extended amount of time. It was important to check in often on the others in the group to see where they are and keep them accountable. It was also fun to learn how to collaborate on ideas and what the best approaches for teaching were. Running activities also helped in my public speaking skills. 
 
-  <img class="ui medium right image" src="../images/awana3.jpeg">
-  <img class="ui medium left image" src="../images/cubbies1.jpeg">
+<div class="ui medium images">
+  <img class="ui image" src="../images/awana3.jpeg">
+  <img class="ui image" src="../images/cubbies1.jpeg">
+</div>
