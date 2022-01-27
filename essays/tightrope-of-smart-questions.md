@@ -6,7 +6,7 @@ title: Walking the Tightrope of Asking “Smart” Questions
 date: 2022-01-27
 labels:
   - Smart Questions  
-  - Dos and Donts
+  - Do's and Don'ts
   - StackOverflow
 ---
 
