@@ -1,30 +1,46 @@
 ---
 layout: essay
 type: essay
-title: Who Would Win - Java vs JavaScript
+title: Walking the Tightrope of Asking “Smart” Questions
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-19
+date: 2022-01-27
 labels:
-  - Java 
-  - Reflection
+  - Smart Questions  
+  - Dos and Donts
+  - StackOverflow
 ---
 
 <img class="ui large image" src="../images/boxing.jpg">
 
-## Who's in the Ring?
+## Balancing on the Tightrope
+When I first decided on pursuing a career in the computer science field I thought to myself: “Man, I guess I’m going to be stuck behind a computer all day for the rest of my life.” I’ve come to realize that having sufficient communication skills is crucial to anyone in this field. You don’t code in a vacuum after all! If one is to be smart and efficient as a programmer they must learn how to communicate well and ask “smart questions”. What’s the best way to ask for help? When should someone ask for help? These questions have recently plagued my mind as I learn more in my coding classes and find myself struggling to understand certain concepts. And when it comes to asking for help on a public forum, it takes a lot to do it right and do it well. It is very easy to find yourself wobbling back and forth on the tightrope of asking smart questions. Asking a smart question in the right way will be thought-provoking, teach yourself and others, and help develop our understanding as programmers. An un-smart question or question asked in the wrong way will waste other people’s precious time and not help you grow and develop.  And trust me, taking the time to know the difference could save your life as a programmer. 
 
-Welcome to today’s match-up. If you’re a newbie to Java or JavaScript, you’re in the right place to learn some insight on the two languages from a fellow newbie. In this corner, we have the first language I ever learned to code in Java! Java is a similar language to C (which I have some experience in) and a staple to anyone in the computer science field. And in the other corner, we have a newcomer stepping into the ring, JavaScript! I recently just learned basic syntax and application for JavaScript and am excited to pit it against Java and see what sets them apart. 
+## How to Not Fall off the Tightrope 
+### The Do’s of Asking “Smart” Questions
+First off, here are some basic do’s on asking smart questions:
+DO perform an adequate amount of research before asking your question. Don’t immediately jump onto a public forum and ask for help the second you don’t understand something. Look up your problem on Google, look at other forums, phone a friend for help, and if all else fails, THEN you post your question. 
 
-## Java vs. JavaScript 
+DO make it clear that you’re willing to actively participate in solving the problem. Be clear that you need someone to point you in the right direction, not hand you the answer on a silver platter because if you do, you definitely won’t get the answer you want or need. 
 
-I thought Java and JavaScript would be really similar since they have similar names but that wasn’t the case. Right off the bat, compared to Java, I found JavaScript much more flexible. One main difference between the two is that when using Java, you must specify the type of each variable used. And once it’s declared to be a certain datatype (an integer, string, array, etc) it can’t be changed. On the other hand, in JavaScript, it isn’t necessary to specify the datatype you set to a variable. You can also reassign the datatype of a variable after declaring it. This took some getting used to since I’ve conditioned myself to always type ‘int’ or ‘string’ when declaring variables. Another major difference that took me off guard was that Java is a class-based language while JavaScript isn’t. I’m used to using Java and the need to set up classes, main methods, and functions to perform even simple tasks. In JavaScript, there is more freedom. You don’t need classes or main methods, you can write a function and call it right away. It honestly amazed me when I realized how different these two languages are. 
+DO be precise and informative when asking your question and answering any possible follow-up questions. Describe the diagnostic steps you took to debug your code, what research you did (see the first DO), and don’t dump huge chunks of code for people to squint at. Make a small test case by taking the chunk that doesn’t work and providing only the necessary code needed for it to compile. 
 
+### An Example of a Smart Question
+Here is a link to the sample from StackOverflow: [link](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it).
+This post starts with their situation. They ran some JavaScript code through Crockford’s JSLint and it gave them an error: Missing “use strict” statement. They did research and found they needed to add “use strict” to their code. They added it and the error stopped but they searched on Google and couldn’t find out the usage of “use strict” and questioned its relevance. This is an excellent example of a smart question. This person clearly did adequate amounts of research before asking the question, showed they were willing to be active in the finding solution process and was precise and informative on what they need help with. The language used was respectful and used proper grammar and spelling. The thing that really makes this question “smart” is that it helps the entire community deepen their understanding. This question was posted 12 years ago so there are other resources available now on “use strict” but now, this post is a resource in itself. The answers to this post have very detailed explanations and the top answer has even been updated in 2021 to include ES6. 
 
-## And the Winner Is...
- 
-The differences between the two are what makes them so hard to choose between. They both have ideal scenarios they could be used in. From a software engineering perspective, Java is more complex but seems more suitable and practical for bigger projects with lots of code that would benefit from the rigidness of the Java syntax. The freedom JavaScript provides is a double-edged sword because as projects get bigger and more complex, it will be harder to find errors since it allows more than Java. On the other hand, I’ve found learning JavaScript to be a very interesting experience. It was really fun to experiment with the new syntax and learn different ways to write even the simplest lines of code. Since I’ve only learned C and Java before JavaScript, the syntax was honestly hard to wrap my head around but I found JavaScript to be a very unique language that I can see myself falling in love with. It felt like there were more opportunities to think creatively; much more so than Java or C. Personally, at the moment, I like JavaScript more. Ding! Ding! JavaScript has won.
+## How to Fall off the Tightrope 
+### The Don’ts of Asking “Smart” Questions 
+Now, here are some things you should never do: 
+DON’T be rude. The people you are asking to help you find a solution to your problem would be taking precious time out of their day to help you out. The least you can do is say ‘please’ and ‘thank you’. If your question isn’t answered or you are given an unsatisfactory answer, don’t whine or complain or decide to re-post your question on multiple forums and bother other people. 
 
-## The Post-Fight
+DON’T be lazy when asking your question. Take the time to make sure you used proper grammar, post your question in the appropriate forum, and use a good header. Don’t put in all caps: ‘NEED HELP’ or beg for help in the header. A good way to format your question is (what is not working) - (how it's not working) Another thing to note is that once your question is answered, add something to the tagline or header that indicates the problem was solved so others can see it 
 
-The two fighters shake hands and walk backstage but, the fight isn’t over yet. Not for me at least. I’ve never competed in a sport before so who would’ve thought that the most experience I’d have in athletics would be in computer science! I’m currently taking an introduction to software engineering class that uses a pedagogy called “Athletic Software Engineering”. The purpose behind it is to force us to exercise the skills we learn in this class much like any other sport. We are constantly given timed problems called Workout of the Days (WODs) in and out of class to keep us exercising and on our toes. This forces us to keep up with our training outside of class so we can perform well when it counts. I’ve found this type of learning style very stressful as there is constant pressure to know what you’re doing at all times. However, I believe that this type of pressure will be helpful in the long run. The skills you learn from competing such as critical thinking, building character, and never giving up apply to learning any code. In the end, when it comes to Java or JavaScript, I’m looking forward to delving deeper into what it means to be a software engineer and growing as a computer science athlete. 
- 
+DON’T not do all the DOs mentioned above. 
+
+### An Example of a Not Smart Question 
+Here is a link to the sample from StackOverflow: [link](https://stackoverflow.com/questions/68728939/django-page-not-found-help-me).
+First off, the header of the question is: “django page not found help me”. Not only does this not effectively explain the problem, but it also comes across as needy and not intellectual. Their post has the code for the URL in their project and then the code for the URL in their web application. They then proceed to ask: “why visit http://127.0.0.1:8000/register/ page not found 404 ????? help me”. Not only is there bad grammar and a clear indication of begging for help,
+but you can also tell that this person is looking for the answer to be spoon-fed to them. Their language is clearly rude and lazy. But, the most “un-smart” thing about the way this person asked their question is that they asked it in the first place. By typing “django page not found” into Google, I found several other answered forums asking the same question as well as several videos on the “page not found 404 error” they were experiencing. This is why it should come as no surprise that this post had 0 answers given. 
+
+## Walking the Tightrope Together 
+As easy as it sounds, asking smart questions isn’t as simple as posting a question on a public forum and waiting for the answers to roll in. Up until recently, I thought that asking a question is about asking a group of strangers to help you with your code. I’ve come to realize it’s about asking a smart question to contribute to the community’s learning as a whole. Thinking about it that way, when asking a question, it is your responsibility as an active member of the community to ask it the smart way. As I continue to learn and grow as a developer, I’ll do my best to bear this responsibility with all of this in mind. After all, we’re all walking on the tightrope of asking smart questions together. 
