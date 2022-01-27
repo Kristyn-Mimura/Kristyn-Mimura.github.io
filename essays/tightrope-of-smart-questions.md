@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-<img class="ui large centered image" src="../images/tightrope.jpg">
+<img class="ui large centered image" src="../images/tightrope.jpeg">
 
 ## Balancing on the Tightrope
 When I first decided on pursuing a career in the computer science field I thought to myself: “Man, I guess I’m going to be stuck behind a computer all day for the rest of my life.” I’ve come to realize that having sufficient communication skills is crucial to anyone in this field. You don’t code in a vacuum after all! If one is to be smart and efficient as a programmer they must learn how to communicate well and ask “smart questions”. What’s the best way to ask for help? When should someone ask for help? These questions have recently plagued my mind as I learn more in my coding classes and find myself struggling to understand certain concepts. And when it comes to asking for help on a public forum, it takes a lot to do it right and do it well. It is very easy to find yourself wobbling back and forth on the tightrope of asking smart questions. Asking a smart question in the right way will be thought-provoking, teach yourself and others, and help develop our understanding as programmers. An un-smart question or question asked in the wrong way will waste other people’s precious time and not help you grow and develop.  And trust me, taking the time to know the difference could save your life as a programmer. 
