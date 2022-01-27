@@ -18,7 +18,7 @@ Awana is a worldwide non-profit ministry and organization that focuses on provid
 
 During the summer, there is a special program run called Summer Awana. The program is more interactive and focuses on providing activities for the students to keep them engaged. In the summer of 2019, I was put on a small team of three people in charge of planning and running the arts and crafts portion of the program for all the kids. We met every Saturday that summer and planned the craft out, prepared the materials, and set them out so they were ready when the kids came the next day. Then on Sunday, we would explain how to do the craft and help students who needed help.
 
-  <img class="ui medium right floated image" src="../images/awana3.jpeg">
+  <img class="ui large right floated image" src="../images/awana3.jpeg">
   <img class="ui medium left floated image" src="../images/cubbies1.jpeg">
   
   
