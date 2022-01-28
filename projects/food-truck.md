@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pcmainlogo.png
+image: images/pcmainlogo.jpeg
 title: Pupcakes Food Truck
 permalink: 
 # All dates must be YYYY-MM-DD format!
