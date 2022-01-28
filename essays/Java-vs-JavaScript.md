@@ -13,7 +13,7 @@ labels:
 
 ## Who's in the Ring?
 
-Welcome to today’s match-up. If you’re a newbie to Java or JavaScript, you’re in the right place to learn some insight on the two languages from a fellow newbie. In this corner, we have the first language I ever learned to code in Java! Java is a similar language to C (which I have some experience in) and a staple to anyone in the computer science field. And in the other corner, we have a newcomer stepping into the ring, JavaScript! I recently just learned basic syntax and application for JavaScript and am excited to pit it against Java and see what sets them apart. 
+Welcome to today’s match-up. If you’re a newbie to Java or JavaScript, you’re in the right place to learn some insight on the two languages from a fellow newbie. In this corner, we have the first language I ever learned to code in Java! Java is a similar language to C (which I have some experience in) and a staple to anyone in the computer science field. And in the other corner, we have a newcomer stepping into the ring, JavaScript! I recently just learned the basic syntax and application for JavaScript and am excited to pit it against Java and see what sets them apart. 
 
 ## Java vs. JavaScript 
 
