@@ -18,7 +18,7 @@ summary: Used Adobe Illustrator for a graphic design project to create and desig
 ## Project Details 
 The objective of this project was to pair with another student and collaboratively create a lunch truck design that incorporated a brand identity. We were tasked with making designs for a food truck, take-out menu, a business card, a menu poster, and more. We first brainstormed ideas and decided on a cute concept to target younger demographics. We then decided on having a dog theme that would serve desserts and drinks; hence the name Pupcakes. 
 
-For this project, I made the initial sketch for the logo and made the final product in Adobe Illustrator. From there we used the concept and colors of the logo to create the rest of the materials. My partner sketched the concepts for our products while I designed and made the logo, menu, and business card. 
+For this project, I made the initial sketch for the logo and made the final product in Adobe Illustrator. From there we used the concept and colors of the logo to create the rest of the materials. We tried to emphasize repetition in our project through the aesthetic and colors. My partner sketched the concepts for our products while I personally designed and made the logo, menu, and business card on Adobe Illustrator. 
 
 ## What I Learned 
 
