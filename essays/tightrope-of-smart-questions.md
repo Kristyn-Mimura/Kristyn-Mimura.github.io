@@ -35,7 +35,7 @@ Now, here are some things you should never do:
 
 DON’T be rude. The people you are asking to help you find a solution to your problem would be taking precious time out of their day to help you out. The least you can do is say ‘please’ and ‘thank you’. If your question isn’t answered or you are given an unsatisfactory answer, don’t whine or complain or decide to re-post your question on multiple forums and bother other people. 
 
-DON’T be lazy when asking your question. Take the time to make sure you used proper grammar, post your question in the appropriate forum, and use a good header. Don’t put in all caps: ‘NEED HELP’ or beg for help in the header. A good way to format your question is (what is not working) - (how it's not working) Another thing to note is that once your question is answered, add something to the tagline or header that indicates the problem was solved so others can see it 
+DON’T be lazy when asking your question. Take the time to make sure you used proper grammar, post your question in the appropriate forum, and use a good header. Don’t put in all caps: ‘NEED HELP’ or beg for help in the header. A good way to format your question is (what is not working) - (how it's not working) Another thing to note is that once your question is answered, add something to the tagline or header that indicates the problem was solved so others can see it.
 
 DON’T not do all the DOs mentioned above. 
 
