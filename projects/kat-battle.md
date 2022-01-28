@@ -12,7 +12,7 @@ labels:
   - Gaming
 summary: I developed a simple 2-person fighting game. I designed it and made all animations myself.
 ---
-  <img class="ui medium image" src="../images/catgame1.png">
+  <img class="ui medium image" src="../images/catgame1.jpeg">
   
 ## Details of the Project 
 
