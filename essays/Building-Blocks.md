@@ -15,7 +15,7 @@ labels:
 
 ## The Building Blocks 
 
-When I was little, I liked to design houses. And by that I mean I’d draw houses for fairies and princesses in my composition book. I’d design their rooms, filling them with brightly colored beds and sparkling furniture. I drew large stained glass windows and balconies that were fit for royalty. Two parts in particular about this stage of my life have stuck with me. One, I love to design things. Not just princess castles and fairy beds but websites and programs and games. Two, my software engineering journey so far and to come can be compared to building a house. 
+When I was little, I liked to design houses. And by that I mean I’d draw houses for fairies and princesses in my composition book. I’d design their rooms by filling them with brightly colored beds and sparkling furniture. I drew large stained glass windows and balconies that were fit for royalty. Two parts in particular about this stage of my life have stuck with me. One, I love to design things. Not just princess castles and fairy beds but websites and programs and games. Two, my software engineering journey so far and to come can be compared to building a house. 
 
 
 ## The Blueprint  
