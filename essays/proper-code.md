@@ -7,7 +7,6 @@ date: 2022-02-10
 labels:
   - Coding is a Language  
   - Coding Standards
-  - JavaScript and ESLint
 ---
 
 <img class="ui medium rounded image" src="../images/speech.jpg">
