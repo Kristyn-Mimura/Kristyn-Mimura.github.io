@@ -10,7 +10,7 @@ labels:
   - JavaScript and ESLint
 ---
 
-<img class="ui medium rounded image" src="../images/tightrope.jpeg">
+<img class="ui medium rounded image" src="../images/speech.jpg">
 
 ## Coding is a Language 
 “Coding is a language.” That’s a phrase that’s been thrown around a lot in my coding classes and as easy as it is to pass it off as inconsequential, there is truth to the phrase. There are some obvious parallels, such as, there’s lists and lists of new vocabulary to learn and you won’t become fluent in either language in just a day. There are also more interesting parallels that can be made. Spoken language can be used to share ideas, request information, and communicate with one another. In the same way, coding involves the sharing of ideas to best solve a problem, and you communicate and request information with a computer when you code. Understanding that coding is a language can deepen our understanding on how and why we code. 
