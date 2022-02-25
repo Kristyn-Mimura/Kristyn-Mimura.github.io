@@ -9,7 +9,7 @@ labels:
   - HTML & CSS
 ---
 
-<img class="ui medium rounded image" src="../images/tori-richards.png">
+<img class="ui large rounded image" src="../images/tori-richards.png">
 
 Two weeks ago, if you told me I’d be able to make a website that looks like the one above in less than an hour, I’d say you’re crazy. I’ve always had the image in my head that UI design was an arduous process. I imagined it took hours and hours of staring at a screen and working hard on the back-end to make any site. So, I’m seriously amazed at how using a UI framework gives you the power to do so much you never thought you could. It was an uphill battle to get to the point where I could understand the basics of using a UI framework, but it was very much worth it. 
 
