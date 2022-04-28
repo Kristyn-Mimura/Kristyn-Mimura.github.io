@@ -13,7 +13,7 @@ labels:
 ## Mmmmm… Cookies
 I’ll be honest, I’m not the biggest fan of sweets. Candies and chocolate coat my mouth with too much sugar, and I can never finish a slice of cake or an entire brownie in one sitting. However, the one exception to this is cookies. They’re not too overly sweet and are bit-sized so I can enjoy them all in one go. Plus, they’re pretty easy to make compared to cakes or other desserts. My all-time favorite cookie is a classic, freshly baked, soft on the inside, crispy on the outside chocolate chip cookie…. Mmmm.
 
-<img class="ui medium rounded image" src="../images/cookies.jpg" alt=".../images/cookies.jpg">
+<img class="ui large rounded centered image" src="../images/cookies.jpg" alt=".../images/cookies.jpg">
 
 ## Wait, Why Are You Talking About Cookies?
 I bring up my love of cookies because that is what immediately popped into my mind when I first learned about design patterns. I was first introduced to the concept of design patterns in the software engineering class I am currently taking. I was excited at first because I thought design patterns meant patterns in design, such as using repetition, patterns, and rhythm in visual design. I guess I should’ve known better since it is a software engineering class, not a web or graphic design class. Despite this initial disappointment, I was pleasantly surprised and found the idea of design patterns more intriguing the more I looked into them.
@@ -31,7 +31,7 @@ As helpful as tool design patterns are, you can’t expect to write professional
 ## One Tough Cookie
 Much like when it comes to baking, when it comes to design patterns, I'm just a beginner. In my current software engineering class, we have been working and learning about the observer design pattern and more specifically, the publish/subscribe pattern. 
 
-<img class="ui medium rounded image" src="../images/sub-pub.png" alt=".../images/">
+<img class="ui large rounded centered image" src="../images/sub-pub.png" alt=".../images/">
 
 You have a set of data sources (the publishers) and they specify how data is made available provides that data to an event bus. When there is a new state from a publisher, the event bus notifies all the subscribers that are concerned about that publication of the change. This is a fundamental design pattern in Meteor and it was so interesting to learn how it worked and see it in action in our code. For example: 
 ````
