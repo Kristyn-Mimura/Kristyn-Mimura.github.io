@@ -26,19 +26,25 @@ I bring up cookies because I see the process of coding and design patterns' role
 As helpful as tool design patterns are, you can’t expect to write professional-level code with just design patterns. You could have all the cookie cutters in the world, and still not be able to make a cookie in every shape possible. Cookie cutters are just templates, no matter what you do, if all you have are cookie cutters in the shape of hearts, you can’t use them to make a cookie in the shape of a star. In the same way, design patterns can be an inspiration for a solution instead of an actual implementation. Just because your code utilizes a design pattern, it does not mean it’s the most efficient and they aren’t relevant to every problem imaginable.
 
 
-## In Conclusion, Cookies Are Great
-Much like when it comes to baking, when it comes to design patterns, I'm just a beginner. In my current software engineering class, we have been working and learning about the observer design pattern and more specifically, the publish/subscribe pattern. We worked in Meteor and used the `Meteor.publish()` and `Meteor.subscribe()` functions to control how sets of records were published and how clients could subscribe to those sets. You have a set of data source (the publishers) and they specify how data is made available and so when there is a new state, the event bus 
-What design patterns have you used in your code?
-Observer design pattern 
-Publication and subscription
-publish()
-When you subscribe to that publication, you get a cursor to the contents of the entire collection
-__.publish() create meteor publication that can be subscribed to
-___.subscribe
+## One Tough Cookie
+Much like when it comes to baking, when it comes to design patterns, I'm just a beginner. In my current software engineering class, we have been working and learning about the observer design pattern and more specifically, the publish/subscribe pattern. 
+
+<img class="ui medium rounded image" src="../images/sub-pub.png" alt=".../images/">
+
+You have a set of data sources (the publishers) and they specify how data is made available provides that data to an event bus. When there is a new state from a publisher, the event bus notifies all the subscribers that are concerned about that publication of the change. This is a fundamental design pattern in Meteor and it was so interesting to learn how it worked and see it in action in our code. For example: 
+````
+```
+publish() {
+  if (Meteor.isServer){
+    Meteor.publish(this._collectionName, () => this._collection.find());
+  }
+}
+```
+````
+We used this in a class that defined a base collection and when invoked, it created a Meteor publication that made it so when you subscribe to that publication, you will have access to everything in the entire collection. So, any part of the program that needed access to any part of this collection could have it. 
 
 
-
-How can I use this new tool in my tool-belt to make my code more functional? Efficient? Cleaner? I’m excited to try various design patterns in my code from now on. 
+Now that I've learned a little bit about design patterns, how can I use this new tool in my tool-belt to make my code more functional? Effective? Cleaner? I’m excited to try various design patterns in my code. From now on, when faced with a coding problem, I'll ask myself: "What's the best way to make this cookie?"  
 
 
 
