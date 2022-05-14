@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/catgame1.jpeg
+image: images/mmlogo.png
 title: Kat Battle - A Two-Person Fighter Game
-permalink: projects/micromouse
+permalink: projects/microwavin-manoa
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-01
+date: 2022-05-10
 labels:
-  - Computer Science
-  - Animation
-  - Gaming
-summary: I developed a simple 2-person fighting game. I designed it and made all animations myself.
+  - Web-Design
+  - Group Project
+  - Software Engineering 
+summary: Developed a web application where UH Manoa students 
 ---
   <img class="ui medium image" src="../images/catgame1.jpeg">
   
