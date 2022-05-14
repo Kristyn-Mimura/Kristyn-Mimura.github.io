@@ -16,21 +16,39 @@ Change. That’s a scary word. Ever since I turned 18, life’s been a blur of c
 <img class="ui large rounded centered image" src="../images/future.jpg" alt=".../images/future.jpg">
 
 ## Beyond The Code
-My biggest takeaways from my software engineering class have nothing to do with actual code. Something I’ve come to realize over the course of this semester is that there’s so much more to a computer science degree than learning how to code. I've learned that you have to learn how to effectively collaborate and communicate with others. There’s also a lot more creativity involved with coding than I originally thought. Not only can you put your creativity to work when trying to design a webpage or app, you also use it during the development process. Unlike math, there is no one right answer so there are technically endless ways you can come up with solutions to problems. Another big takeaway was me was opening my eyes to the reality of ethics in software engineering. In this day and age of technology and the internet, talking about issues such as privacy and online harassment is as important now as ever. 
+My biggest takeaways from my software engineering class have nothing to do with actual code. Something I’ve come to realize over the course of this semester is that there’s so much more to a computer science degree than learning how to code. I've learned that you have to learn how to effectively collaborate and communicate with others. There’s also a lot more creativity involved with coding than I originally thought. Not only can you put your creativity to work when trying to design a webpage or app, you also use it during the development process. Unlike math, there is no one right answer so there are technically endless ways you can come up with solutions to problems. Another big takeaway was me was learning of the reality of needing ethics in software engineering. In this day and age of technology and the internet, talking about issues such as privacy and online harassment is as important now as ever. What I've taken away from this class is more than the technical skills of learning a new language or how the backend of a website works; it's opening my eyes to what it really means to pursue a degree in this community. 
 
 
 
 ## Doing Things the Agile Way 
-Work smarter, not harder.
+Work smarter, not harder. This is especially true when referring to how to manage a group project. I've done countless group projects, both in school and out. They're always ended up following the same tiring procedure: you meet with the group once in the beginning, exchange numbers, and then pester one another to do their share until the due date. This is why I've always hated group projects, they're needlessly tedious and most times would be easier if done alone. That was until, I learned about agile project management. 
 
-As helpful as tool design patterns are, you can’t expect to write professional-level code with just design patterns. You could have all the cookie cutters in the world, and still not be able to make a cookie in every shape possible. Cookie cutters are just templates, no matter what you do, if all you have are cookie cutters in the shape of hearts, you can’t use them to make a cookie in the shape of a star. In the same way, design patterns can be an inspiration for a solution instead of an actual implementation. Just because your code utilizes a design pattern, it does not mean it’s the most efficient and they aren’t relevant to every problem imaginable.
+For our final project for my software engineering class, we had a group project where we had to build a website with functionality that specifically helped students on our campus. When I learned at the beginning of the class that the final was a group project, I began to dread it. Once again, I would have to struggle my way through another group project. However, part of the pedagogy for the class was to implement agile project management when doing our final project. Who knew that this would change the game for me. 
 
+Issue driven project management, is a type of agile project management that is best utilized for small teams and projects of "web app" grade quality. The basic approach was to divide the work into tasks that would take about 3 days to complete, and then have 2 meetings a week to replenish new tasks that should be done before the next meeting. Then, every 7-10 days, there should be a milestone, something concrete that can be presented that shows some level of progress was made. This type of system made delegating work easy and forced us to steadily make good amounts of progress throughout the entire project period. Anytime in the future where I need to work in a similar setting, I'm definitely going to use this type of system. Setting short term goals that build up to long term ones is nothing new but having an idea of specific times to make said goals and implementing a system that enforces their completion is such a helpful tool I'll use in future projects.  
 
-## 
-Much like when it comes to baking, when it comes to design patterns, I'm just a beginner. In my current software engineering class, we have been working and learning about the observer design pattern and more specifically, the publish/subscribe pattern. 
+## The Tipping of the Scale
+Coming into my software engineering class, I had no idea ethics had anything to do with computer science. That's something reserved for english and history classes right? Wrong. Ethics are a part of any job, especially in computer science with the rise of technology. We read articles and readings about various ethical dilemmas such as 'how should a self driving car determine who to kill in a crash' and 'making a program that ends up being used for promoting dangerous drugs'. These were scenarios I never stopped to think about but should since these are all very real and very applicable scenarios to anyone who programs. 
 
+The last day of my software engineering class had us debate on the ethics of the following prompt:
 
-You have a set of data sources (the publishers) and they specify how data is made available provides that data to an event bus. When there is a new state from a publisher, the event bus notifies all the subscribers that are concerned about that publication of the change. This is a fundamental design pattern in Meteor and it was so interesting to learn how it worked and see it in action in our code. For example: 
+Now, assume that you work at WatchMe Inc as a software engineer.
+You have just been assigned to work on the GetFace system, which
+is a facial recognition system that WatchMe is marketing to
+law enforcement agencies across the country. You have discovered
+that the project does not observe several of the guidelines
+proposed by the ACLU to ensure ethical use of the technology.
+Specifically:
+- Informed consent was not obtained from the individuals whose
+  faces are being used to train the system.
+- Citizens do not have the ability to access, edit, or
+  delete their information.
+- There are no dedicated security professionals for maintaining
+  the security and privacy of the information.
+- The results of the facial recognition algorithm are sold
+  without informed, written consent
+
+We randomly given a side to debate for and I was put in the group that was required to argue that it was ethical to work on this system. Right off the bat, I thought this was completely unfair to us. How could we argue that this was ethical? Who in their right mind would argue to work on something like this? As the debate when on and I discussed it with my peers, I realized this isn't really as simple as it seems at first glance. Is it the responsibility of the employee to ensure the ethics of a company's projects? Would the most ethical decision be to leave the project when you'll just be replaced be someone else? Won't the cycle just continue? Having to sit down and seriously debate for the "opposing" side made me realize that the morality of one's action as programmer isn't as clear cut as it seems.
 
 
 
