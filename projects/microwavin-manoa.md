@@ -16,16 +16,23 @@ summary: Developed a web application where UH Manoa students can share and learn
   
 ## Details of the Project 
 
-Kat Battle is a simple 2-person fighting game I made using JavaScript as the final project for my Intro to Computer Science class in high school. The game was made using code.org and used a library called Blockly that allowed users to code in JavaScript. This was one of the first projects I've made in my Computer Science career and it instilled in me the desire to continue my journey in this field. This project taught me how to design and implement a game and make simple animations by hand. 
+The problem we tried to solve with this application is the issue of college students being limited in their access to kitchen appliances, time, cooking skills, and grocery stores and having access to recipes that respect these constraints. Many college students spend a lot of money eating fast-food, eating out, or turning to unhealthy alternatives like microwave ramen and chips. Our application was designed to address this problem by making a platform where UH Manoa students could share and look up simple and easy to make recipes that are easy on the wallet and time.
 
-My game is a two-player fighting game with cat characters and uses keyboard controls for input. On the character select screen, you use the arrow keys and spacebar to select each of the player’s characters. If you’re player one, you use A,W,D to move and V to attack and if you’re player two you use the arrow keys to move and K to attack. Every time someone is hit their health bar goes down and the first person to get the opposing person’s health bar all the way down wins. 
+Our application allowed users to make an account associated with their email. Once logged in, users could look at different recipes by inputting desired filters such as vegan or peanut-free options. Every recipe had an image, description, estimated time, serving size, and estimated cost depending on the cost of the ingredients according to nearby vendors. A user could also make recipes, which would be added to the collection and viewed on the search recipe and my recipe page. 
+
+For more information or if you ar curious, the link to the Organization Github Page as well as the source code is [here](https://microwavin-manoa.github.io/).
 
 <img class="ui image" src="../images/search-recipe.png">
 
-## What I Learned 
-Despite this being a very simple game, it taught me how coding even the simplest of things can require repeated bashing of heads against walls and late nights kept up in frustration. At one point, I had over 1,800 lines of code that didn't work because I had so much I wanted to try and do. I kept adding and adding lines of code without seriously testing at each step. In the end, I had a big pile of messed-up code. I had to breathe, take a step back and start from scratch. This taught me that trying to jump straight into coding without thinking before starting to think through a solution to a problem first is dangerous. It also taught me the basics of JavaScript as well as animation. I learned about different forms of input, how to check for collisions, and physics for character movement. 
+##  My Contribution 
+This was the final project for my ICS 314 Software Engineering class. On top of that, it was a group project where I worked with three of my peers. Our team met twice a week in person for a few hours and then called remotely once on the weekend to follow-up. We managed our tasks by making a list of tasks at each meeting, and then finishing them by the next so more could be added. Meeting so consistently also allowed us to help one another debug our code and check up on one another. 
 
-The link to the Organization Github Page as well as the source code is [here](https://microwavin-manoa.github.io/).
+I helped work on the backend with making the initial collections and add and edit functionalities for the recipes. However, I mostly worked on the frontend part of the development by choosing the color palette and fonts, designing the navigation bar and tables, as well as various pages in the application.  
+
+
+## What I Learned 
+This was the biggest project I've ever worked on in my computer science career. I learned a lot about effective communication and how to best distribute work and tasks. I was able to apply many skills I had learned in my software engineering class such as functional programming in Javascript, how to use HTML and CSS, as well as UI design. I'm incredibly proud of what our team was able to make in the time we were given and I'm looking forward to doing more group projects in the future. 
+
 
 
 
