@@ -10,17 +10,17 @@ labels:
   - Web-Design
   - Group Project
   - Software Engineering 
-summary: Developed a web application where UH Manoa students can share and learn recipes that are reasonable both in regards to budget and time. All ingredients are in walking distance of the UH Manoa campus. 
+summary: Developed a web application where UH Manoa students can share and learn recipes that are reasonable both in regards to budget and time. All ingredients needed for the recipes are within walking distance of the UH Manoa campus.
 ---
   <img class="ui image" src="../images/mm-landing.png">
   
 ## Details of the Project 
 
-The problem we tried to solve with this application is the issue of college students being limited in their access to kitchen appliances, time, cooking skills, and grocery stores and having access to recipes that respect these constraints. Many college students spend a lot of money eating fast-food, eating out, or turning to unhealthy alternatives like microwave ramen and chips. Our application was designed to address this problem by making a platform where UH Manoa students could share and look up simple and easy to make recipes that are easy on the wallet and time.
+The problem we tried to solve with this application is the issue of college students being limited in their access to kitchen appliances, time, cooking skills, and grocery stores and having access to recipes that respect these constraints. Many college students spend a lot of money eating fast-food, eating out, or turning to unhealthy alternatives like microwave ramen and chips. Our application was designed to address this problem by making a platform where UH Manoa students could share and look up simple and easy recipes that are easy on the wallet and time.
 
 Our application allowed users to make an account associated with their email. Once logged in, users could look at different recipes by inputting desired filters such as vegan or peanut-free options. Every recipe had an image, description, estimated time, serving size, and estimated cost depending on the cost of the ingredients according to nearby vendors. A user could also make recipes, which would be added to the collection and viewed on the search recipe and my recipe page. 
 
-For more information or if you ar curious, the link to the Organization Github Page as well as the source code is [here](https://microwavin-manoa.github.io/).
+For more information or if you are curious, the link to the Organization Github Page as well as the source code is [here](https://microwavin-manoa.github.io/).
 
 <img class="ui image" src="../images/search-recipe.png">
 
