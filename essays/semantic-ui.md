@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: I Can Never Look at Websites the Same Again
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-24
