@@ -35,12 +35,12 @@
       ]
     },
     {
-      "name": "game design",
+      "name": "website application development",
       "keywords": [
       ]
     },
     {
-      "name": "web design",
+      "name": "game design",
       "keywords": [
       ]
     }
@@ -50,9 +50,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Javascript",
         "Java",
-        "Javascript"
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -61,7 +62,28 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "Eclipse"
+        "IntelliJ IDEA"
+      ]
+    }
+  ],
+  "Work Experience": [
+    {
+      "position": "Youth Group Leader",
+      "startDate": "October 2022",
+      "endDate": "Present",
+      "summary": "Work remotely with a team of primarily students to work on web-facing Java projects that benefit the University of Hawaii community",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": " ",
+      "highlights": [
+      
       ]
     }
   ],
@@ -72,9 +94,10 @@
       "studyType": "B.S.",
       "startDate": "2020-06-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.76",
       "courses": [
         "ICS 314: Software Engineering I",
+        "ICS 311: Algorithms",
         "ICS 212: C/C++ Programming",
         "ICS 241: Discrete Math II",
         "ICS 141: Discrete Math I",
