@@ -69,11 +69,12 @@
   "work": [{
     "name": "University of Hawaii",
     "position": "Web Application Developer",
-    "startDate": "October 2022",
+    "url": "",
+    "startDate": "2022-10-13",
     "endDate": "Present",
     "summary": "Work remotely with a team of primarily students to work on web-facing Java projects that benefit the University of Hawaii community",
     "highlights": [
-      ""
+      "Use JIRA, Kanban, and Github to manage team workflow"
     ]
   }],
   "education": [
