@@ -66,27 +66,16 @@
       ]
     }
   ],
-  "Work Experience": [
-    {
-      "position": "Youth Group Leader",
-      "startDate": "October 2022",
-      "endDate": "Present",
-      "summary": "Work remotely with a team of primarily students to work on web-facing Java projects that benefit the University of Hawaii community",
-      "highlights": [
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": " ",
-      "highlights": [
-      
-      ]
-    }
-  ],
+  "work": [{
+    "name": "University of Hawaii",
+    "position": "Web Application Developer",
+    "startDate": "October 2022",
+    "endDate": "Present",
+    "summary": "Work remotely with a team of primarily students to work on web-facing Java projects that benefit the University of Hawaii community",
+    "highlights": [
+      ""
+    ]
+  }],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
